@@ -1,0 +1,35 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Database dump files
+*.sql
+database_dump.sql
+
+# Log files
+*.log
+logs/
+log/
+
+# Cache and temporary files
+cache/
+tmp/
+temp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Session files
+sessions/
+sess_*
+
+# Composer dependencies
+vendor/
